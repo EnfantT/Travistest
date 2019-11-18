@@ -2,6 +2,6 @@
   "schemaVersion": 1,
   "label": "hello",
   "message": "test",
-  "color": "blue"
+  "color": "blue",
   "namedLogo": "Samsung Pay"
 }
